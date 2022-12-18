@@ -4,7 +4,19 @@
 - 💞️ I’m looking to collaborate on projects with like-minded persons
 - 📫 You can connect with me at:https://www.linkedin.com/in/daniel-oche 
 
-Core Competencies:
+**Core Competencies:**
+Project Management
+Data Analysis
+Data Visualization
+Process Improvement
+Data Exploration
+
+**Technical Skills**
+SQL
+Tableau
+Power Bi
+Excel
+Python
 
 <!---
 DanielOchekpe/DanielOchekpe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
